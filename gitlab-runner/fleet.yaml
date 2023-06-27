@@ -16,7 +16,7 @@ helm:
   repo: "https://charts.gitlab.io"
 
   # Used if repo is set to look up the version of the chart
-  version: "7.0.1"
+  version: "0.53.1"
 
   # Force recreate resource that can not be updated
   force: false
