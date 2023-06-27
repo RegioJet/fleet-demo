@@ -1,3 +1,5 @@
+gitlabUrl: https://gitlab.sa.cz/
+
 runners:
   config: |
     [[runners]]
